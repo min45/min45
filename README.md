@@ -46,21 +46,21 @@
 
 
 ## 📈 My GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/min45)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/min45)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=min45&show_icons=true&theme=radical)](https://github.com/min45)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=min45&layout=compact&theme=radical)](https://github.com/min45)
 
 ---
 
 ## 📫 How to Reach Me
-- ✉️ Email: [youremail@domain.com](mailto:minmu7522@gmai.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/mimoun-el-yazidi-a677bb337)
+- ✉️ Email: [minmu7522@gmail.com](mailto:minmu7522@gmai.com)
+- 💼 LinkedIn: [linkedin.com/in/Mimoun-El-Yazidi](www.linkedin.com/in/mimoun-el-yazidi-a677bb337)
 
 
 ---
 
 ## 🎯 Professional Goal
-*"Brief description of your professional aspirations (e.g.: Seeking challenging opportunities to build scalable full-stack solutions with modern technologies)."*
+*"Seeking to leverage my full-stack expertise to build scalable web applications while continuously expanding my knowledge in cloud architecture and microservices. Passionate about implementing best practices in code quality and system design to deliver exceptional user experiences."*
 
 ---
 
-⚡ **Fun fact:** *"Something interesting about you (e.g.: I can solve a Rubik's cube in under 2 minutes 🎲)"*
+
