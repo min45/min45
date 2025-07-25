@@ -30,7 +30,7 @@
 
 ## 🎓 Education
 
-### Full Stack Developer Bootcamp
+### Full Stack Developer 
 **4Geeks Academy**  
 📅 [2025]  
 📍 [Barcelona,Spain]  
