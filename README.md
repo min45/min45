@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hello there! 👋 I'm Mimoun, Full Stack Developer 💻
 
-<!--
-**min45/min45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about web development and building innovative tech solutions.  
+🌍 *""First, solve the problem. Then, write the code." - John Johnson"*  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Skills
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![React Router](https://img.shields.io/badge/-React_Router-CA4245?logo=react-router&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white)
+
+---
+
+## 🎓 Education
+
+### Full Stack Developer Bootcamp
+**4Geeks Academy**  
+📅 [2025]  
+📍 [Barcelona,Spain]  
+✔️ 500+ hours of intensive training  
+✔️ Project-based learning methodology  
+✔️ Technologies: JavaScript, Python, React, Flask, PostgreSQL  
+✔️ Heavyly focused on team work
+
+
+
+---
+
+
+
+## 📈 My GitHub Stats
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/min45)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/min45)
+
+---
+
+## 📫 How to Reach Me
+- ✉️ Email: [youremail@domain.com](mailto:minmu7522@gmai.com)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/mimoun-el-yazidi-a677bb337)
+
+
+---
+
+## 🎯 Professional Goal
+*"Brief description of your professional aspirations (e.g.: Seeking challenging opportunities to build scalable full-stack solutions with modern technologies)."*
+
+---
+
+⚡ **Fun fact:** *"Something interesting about you (e.g.: I can solve a Rubik's cube in under 2 minutes 🎲)"*
